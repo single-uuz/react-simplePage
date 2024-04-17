@@ -1,0 +1,75 @@
+{
+    "navInfo" :  [
+        { "id":"001","name":"调料"},
+        { "id":"002","name":"水果"},
+        { "id":"003","name":"蔬菜"},
+        { "id":"004","name":"饮料"}
+    ],
+
+    "infoMember":[
+    {   
+        "id" : "001",
+        "infoName" : "调料",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            }
+        ]
+    },
+    {   
+        "id" : "002",
+        "infoName" : "水果",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            }
+        ]
+    },
+    {   
+        "id" : "003",
+        "infoName" : "蔬菜",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            }
+        ]
+    },
+    {   
+        "id" : "004",
+        "infoName" : "饮料",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"logo192.png",
+                "name" : "img"
+            }
+        ]
+    }
+ ]   
+}

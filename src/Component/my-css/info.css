@@ -1,0 +1,17 @@
+.continer{
+    height: 40%;
+    width: 100%;
+}
+
+.top{
+    width: 100%;
+    height: 20%;
+}
+
+.shopThing{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 33%);
+    grid-template-rows: repeat(2,50%);
+    width: 100%;
+    height: 80%;
+}

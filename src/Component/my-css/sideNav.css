@@ -1,0 +1,21 @@
+.Side{
+    position: sticky;
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: bisque;
+    /* overflow-y:scroll; */
+}
+
+.Side a{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: block;
+    height: auto;
+    min-height: 10%;
+    width: 80%;
+}
+
+.side a :hover{
+    background-color: aquamarine;
+}

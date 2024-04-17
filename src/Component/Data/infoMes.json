@@ -1,0 +1,75 @@
+{
+    "navInfo" :  [
+        { "id":"001","name":"猜你喜欢" },
+        { "id":"002","name":"篮球"},
+        { "id":"003","name":"跑步"},
+        { "id":"004","name":"足球"}
+    ],
+
+    "infoMember":[
+    {   
+        "id" : "001",
+        "infoName" : "猜你喜欢",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            }
+        ]
+    },
+    {   
+        "id" : "002",
+        "infoName" : "篮球",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            }
+        ]
+    },
+    {   
+        "id" : "003",
+        "infoName" : "跑步",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            }
+        ]
+    },
+    {   
+        "id" : "004",
+        "infoName" : "足球",
+        "mermber" :[
+            {   
+                "id":"001",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            },
+            {
+                "id":"002",
+                "imgsrc":"aya.png",
+                "name" : "img"
+            }
+        ]
+    }
+ ]   
+}

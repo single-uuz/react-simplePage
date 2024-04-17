@@ -1,0 +1,17 @@
+.imgContiner{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+}
+.thingName{
+    text-align: center;
+    width: 100%;
+    height: 20%;
+}
+.imgContiner img{
+    margin-left: 15%;
+    object-fit: contain;
+    max-width: 70%;
+    height: 70%;
+}
